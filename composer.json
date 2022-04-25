@@ -1,0 +1,19 @@
+{
+    "name": "lenovo/oop-praktikum-8",
+    "description": "Praktikum 8 Pemrograman Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\OopPraktikum8\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "2197200872-TerryEdyHartanto",
+            "email": "2197200872@student.stmik-aub.ac.id"
+        }
+    ]
+}
